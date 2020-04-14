@@ -1,0 +1,81 @@
+﻿@model Recipe
+@{
+    ViewData["Title"] = "View Recipe";
+    Layout = "_basicLayout";
+}
+
+
+
+    <div class="container">
+        <h2 class=" text-md-center text-primary  bg-dark  shadow-lg p-lg-3 "> <strong>RECIPE DETAILS</strong></h2>
+        <div class="row">
+            <div class="col-4">
+                @if (Model.Photo != null)
+                {
+                    <img src="~/Images/@Model.Photo" alt="Samosa" class="img-thumbnail" title="@Model.Description" />
+                }
+                else
+                {
+                    <img src="~/Images/veggie.jpg" alt="Samosa" class="img-thumbnail" title="@Model.Description" />
+                }
+
+            </div>
+            <div class="col-8">
+                <b class="format" style="margin-top:15px;">Product Name: </b>
+                <span style="margin-top:15px;">@Model.RecipeTitle</span><br />
+                <b class="format" style="margin-top:15px;">Category: </b>
+                <span style="margin-top:15px;">@Model.Category</span><br />
+                <b class="format" style="margin-top:15px;">Preparation Time: </b>
+                <span style="margin-top:15px;">@Model.PrepareTime</span><br />
+                <b class="format" style="margin-top:15px;">Cook Time: </b>
+                <span style="margin-top:15px;">@Model.CookTime</span><br />
+                <b class="format" style="margin-top:15px;">Ingredients: </b>
+                <ul>
+                    @try
+                    {
+                        @foreach (RecipeIngredient r in Model.RecipeIngredients)
+                        {
+                            <li><span>@r.Qty</span>&nbsp;&nbsp;<span style="margin-left:10px;">@r.Ingredient.IngredientName</span></li>
+                        }
+                    }
+                    catch (Exception e)
+                    {
+                        <li>No Ingredients added</li>
+                    }
+
+                </ul>
+
+            </div>
+        </div>
+        <div class="row">
+            <b class="format" style="margin-top:20px;">How to make: </b>
+            <p style="margin-top:15px;">@Model.Direction</p><br />
+        </div>
+        @if (Model.UserName != null)
+        {
+    <div class="row">
+        <i><b>Last Edited By: &nbsp; </b>@Model.UserName<b> &nbsp;On&nbsp;  </b>@Model.date</i>
+    </div><br />
+        }
+
+        <div class="row">
+            <center><a asp-action="UpdateRecipe" class="button" asp-controller="CRUD" asp-route-id="@Model.RecipeID" style="margin-bottom:50px;">Update Recipe</a></center><br />
+        </div>
+        @*<h3>User Reviews</h3><br />*@
+        <div class="container">
+            @foreach (Review r in Model.Reviews)
+            {
+                <div class="row">
+                    <div>
+                        <img src="~/Images/avatar_female.png" alt="John Doe" class="mr-3 mt-3 rounded-circle" style="width:40px;">
+                        <b><small><i>Posted by </i>@r.User</small></b>
+                        <p>@r.Reviews</p>
+                    </div>
+
+                </div>
+            }
+            <br />
+        </div>
+
+
+    </div>

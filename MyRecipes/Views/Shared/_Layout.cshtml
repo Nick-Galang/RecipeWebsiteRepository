@@ -1,0 +1,103 @@
+﻿@inject SignInManager<IdentityUser> signInManager;
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/Content/bootstrap-4.3.1-dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/bootstrap-Flatly.css" />
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="~/Content/bootstrap-4.3.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/CSS/MyStyle.css">
+
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#ingredientName').autocomplete({
+                source: '/api/ingredient/search'
+            });
+        });
+        function add() {
+            var urlview = "/CRUD/AddIngredient";
+            $.ajax({
+                type: "GET",
+                url: urlview,
+                data: "name=" + $("#ingredientName").val() + "&qty=" + $("#qty").val(),
+                contentType: "application/json;"
+            });
+            $("#ingredientList").text($("#ingredientList").text() + "  " + $("#ingredientName").val() + ", " + $("#qty").val() + " \t");
+            $("#ingredientName").val("");
+            $("#qty").val("");
+        }
+
+        function getIngredient() {
+            return $('#ingredientName');
+        }
+    </script>
+
+</head>
+<body style="background-color:#ffffff;">
+    <div class="container-fluid" style="background-color:darkgoldenrod;margin:0px;height:30px;">
+        <span style="float:right;">Welcome to my website</span>
+    </div>
+    <div class="container-fluid" style="min-height:700px;margin:0px;padding:0px;max-height:initial;">
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+            <a class="navbar-brand" href="#" style="margin:0px;padding:0px;height:auto">
+                <img src="@Url.Content("~/Images/dish.png")" alt="Delicious Recipes" style="margin:0px;padding:0px;"/>
+            </a>
+            <span class="navbar-brand">
+                Delicious Recipes
+            </span>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a asp-action="Index" asp-controller="Home" asp-for="Home" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a asp-action="AddRecipe" asp-controller="CRUD" asp-for="AddRecipe" class="nav-link">Add Recipe</a>
+                </li>
+                <li class="nav-item">
+                    <a asp-action="RecipeList" asp-controller="Home" asp-for="RecipeList" class="nav-link">Recipe List</a>
+                </li>
+                @if (signInManager.IsSignedIn(User))
+                {
+                    <li class="nav-item">
+                        <form method="post" asp-action="LogOut" asp-controller="Account">
+                            <button typeof="submit" class="nav-link btn btn-link py-0" style="width:auto;">LogOut @User.Identity.Name</button>
+
+                        </form>
+                    </li>
+                }
+                else
+                {
+                    <li class="nav-item">
+                        <a asp-action="Login" asp-controller="Account" class="nav-link">Login</a>
+                    </li>
+                }
+
+            </ul>
+
+        </nav> 
+        <div class="container-fluid" style="margin:0px;">
+            <div>
+                @RenderBody()
+            </div>
+            <footer style="position:fixed;bottom:0px;background-color:brown;color:white;text-align:center;width:inherit;padding:0px;">
+                <p style="margin:0px;">copyright&copy;shirinbanu:COMP229:WebApplicationDevelopment</p>
+            </footer>
+        </div>
+    </div>
+
+
+</body>
+</html>

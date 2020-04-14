@@ -1,0 +1,42 @@
+﻿@model Review
+@{
+    ViewData["Title"] = "Review Recipe";
+    Layout = "_basicLayout";
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+</head>
+<body>
+    <h2 class=" text-md-center text-primary  bg-transparent  shadow-lg p-lg-3 "> <strong>REVIEW RECIPE</strong></h2>
+    <div class="jumbotron">
+
+        <form asp-action="ReviewRecipe" method="post">
+            <div class="row">
+                <div class="col">
+                    <label class="format"> </label>&nbsp;&nbsp;
+                    <img src="" alt="" width="300" />
+                </div>
+
+            </div>
+            <div class="display:none;"></div>
+            <div class="row" style="margin-top:20px;">
+                <label class="format">User Name: </label>&nbsp;&nbsp;
+                <input type="text" asp-for="User" />
+            </div>
+            <div class="row" style="margin-top:20px;">
+                <label class="format">Comment: </label>&nbsp;&nbsp;
+                <textarea rows="3" cols="50" value="Add a comment..." asp-for="Reviews"></textarea>
+            </div>
+            <div class="row">
+                <button asp-controller="Home" type="submit" class="button" asp-route-id="@Model.RecipeId" style="margin-top:20px;">
+                    Add Comment
+                </button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+
+

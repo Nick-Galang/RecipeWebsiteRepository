@@ -1,0 +1,68 @@
+﻿
+@{
+    ViewData["Title"] = "My Recipes";
+    Layout = "_basicLayout";
+}
+
+    <body>
+        
+            <h3 class="text-md-center text-primary text-monospace bg-transparent shadow-lg p-lg-3">               
+                    The Home of Delicious Recipes and Ingredients
+                </h3>
+        <br />
+        <div class="jumbotron-fluid">
+            <div class="slider-holder">
+                <div class="image-holder">
+                    <div class="slider-image">
+                        <div class="image-container">
+                            <img src="~/Images/beverage.jpg" class="img-circle" width="200" /><br />
+                            <center><h4 class="text-xl-center">Beverages</h4></center>
+                        </div>
+                        <div class="image-container">
+                            <img src="~/Images/snacks.png" class="img-circle" width="200" /><br />
+                            <center><h4 class="text-xl-center">Snacks</h4></center>
+                        </div>
+                        <div class="image-container">
+                            <img src="~/Images/appetizer.jpg" class="img-circle" width="200" /><br />
+                            <center><h4 class="text-xl-center">Appetizers</h4></center>
+                        </div>
+                    </div>
+                    <div class="slider-image">
+                        <div class="image-container">
+                            <img src="~/Images/dessert.jpg" class="img-circle" width="200" /><br />
+                            <center><h4 class="text-xl-center">Desserts</h4></center>
+                        </div>
+                        <div class="image-container">
+                            <img src="~/Images/soup.jpg" class="img-circle" width="200" /><br />
+                            <center><h4 class="text-xl-center">Soup</h4></center>
+                        </div>
+                        <div class="image-container">
+                            <img src="~/Images/salads.jpg" class="img-circle" width="200" /><br />
+                            <center><h4 class="text-xl-center">Salads</h4></center>
+                        </div>
+                    </div>
+                    <div class="slider-image">
+                        <div class="image-container">
+                            <img src="~/Images/main_dish.jpg" class="img-circle" width="200" /><br />
+
+                            <center><h4 class="text-xl-center">Main Dishes</h4></center>
+                        </div>
+                        <div class="image-container">
+                            <img src="~/Images/nonveg.jpg" class="img-circle" width="200" /><br />
+                            <center><h4 class="text-xl-center">Non-Veg</h4></center>
+                        </div>
+                        <div class="image-container">
+                            <img src="~/Images/veggie.jpg" class="img-circle" width="200" /><br />
+                            <center><h4 class="text-xl-center">Veggies</h4></center>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="lead text-center">
+          
+            <a asp-action="AddRecipe" asp-controller="CRUD" class="btn btn-outline-warning btn-lg "role="button"><strong>Add New Recipe</strong></a>
+
+        </div>
+
+    </body>

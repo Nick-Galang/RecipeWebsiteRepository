@@ -1,0 +1,65 @@
+﻿
+
+#navBar {
+    border-style: hidden;
+    border-width: thin;
+    border-radius: 4px;
+    padding: 5px;
+    font-family: "Book Antiqua";
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    text-decoration: none;
+    background-color: #8BBB5B;
+    word-spacing: 100px;
+}
+
+.nav_btns {
+    text-decoration: none;
+    color: #000000;
+    font-family: "Lucida Sans Unicode";
+    font-size: large;
+    font-weight: bolder;
+    font-style: normal;
+    font-variant: normal;
+}
+
+a:hover {
+    color: #FFFFFF;
+    font-weight: bolder;
+}
+
+body {
+    background-image: url('images/15141-meat-whole_food-comfort_food-nutrition-eating-1920x1080.jpg');
+}
+
+#allPage {
+    box-shadow: 5px 5px 5px #000000;
+    padding: 5px;
+    border-radius: 10px;
+    width: 1015px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #C0C0C0;
+    opacity: 0.85;
+    
+    position: relative;
+}
+
+#footer1 {
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000000;
+    background-position: center bottom;
+    background-size: inherit inherit;
+    padding: 5px;
+    border-style: double;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: small;
+    background-image: none;
+    color: #FFFFFF;
+    text-align: left;
+    vertical-align: bottom;
+    background-color: #333333;
+    
+}
+

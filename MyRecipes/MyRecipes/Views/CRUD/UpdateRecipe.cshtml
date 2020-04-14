@@ -1,0 +1,114 @@
+﻿@inject SignInManager<IdentityUser> signInManager;
+@model MyRecipes.Models.Recipe
+@{
+    ViewData["Title"] = "Add Recipe";
+    Layout = "~/Views/Shared/_basicLayout.cshtml";
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>My Recipes</title>
+</head>
+<body>
+    <div>
+        <h2>Update Recipe</h2>
+        <div style="background-color:bisque;border-radius:5px;box-shadow:5px;border:2px outset grey;width:auto;height:auto;margin:10px;">
+            <form asp-action="UpdateRecipe" method="post">
+
+                <div class="container-fluid">
+                    <div class="row" style="display:none">
+                        <label asp-for="RecipeID" style="visibility:hidden;">@Model.RecipeID</label>
+                    </div>
+                    <div class="row" style="margin-top:20px;">
+                        <div class="col-1"></div>
+                        <div class="col-2">
+                            <label class="format">Name of Recipe: </label>&nbsp;<br />
+                            <label class="format" style="margin-top:20px;">Category: </label>&nbsp;<br />
+                            <label class="format" style="margin-top:20px;">Prepation Time: </label><br />
+                            <label class="format" style="margin-top:20px;">Cooking Time: </label>
+                        </div>
+                        <div class="col-5">
+                            <input type="text" size="50" asp-for="RecipeTitle" readonly style="color:lightgray;" /><br />
+                            <select width="100" asp-for="Category" style="margin-top:20px;color:lightgray;">
+                                <option selected>@Model.Category</option>
+                            </select><br />
+                            <input type="text" asp-for="PrepareTime" style="margin-top:20px;" required /><br />
+                            <input type="text" asp-for="CookTime" style="margin-top:20px;" required />
+                        </div>
+                        <div class="col-4">
+                            @if (Model.Photo != null)
+                            {
+                                <img src="~/Images/@Model.Photo" width="300" class="img-thumbnail" asp-for="Photo" />
+                            }
+                            <input type="hidden" value="Samosa.jpg" />
+
+                        </div>
+                    </div>
+
+
+                    <div class="row" style="margin-top:20px;">
+                        <div class="col-1"></div>
+                        <div class="col-2">
+                            <label class="format">Description: </label>&nbsp;
+                        </div>
+                        <div class="col-9">
+                            <textarea cols="80" rows="4" asp-for="Description" required>Enter Recipe Description here...</textarea>
+                        </div>
+
+                    </div>
+                    <div class="row" style="margin-top:20px;">
+                        <div class="col-1"></div>
+                        <div class="col-2">
+                            <label class="format">Ingredients: </label>&nbsp;
+                        </div>
+                        <div class="col-9">
+
+                            @foreach (RecipeIngredient r in Model.RecipeIngredients)
+                            {
+                                <div class="alert alert-success alert-dismissible fade show w-auto" style="background-color:white;color:maroon;float:left;" role="alert">
+                                    <strong>@r.Ingredient.IngredientName @r.Qty</strong>
+                                    <a class="btn close" aria-label="Close" asp-action="DeleteIngredient" asp-controller="CRUD" asp-route-recipeid="@Model.RecipeID" asp-route-recipeingredientid="@r.IngredientId">
+                                        <span aria-hidden="true">x</span>
+                                    </a>
+                                </div>
+
+                            }
+
+                        </div>
+                    </div>
+                    <div class="row" style="margin-top:20px;">
+                        <div class="col-1"></div>
+                        <div class="col-2">
+                            <label class="format"></label>&nbsp;
+                        </div>
+                        <div class="col-9">
+                            <label id="ingredientList"></label>
+                            <input type="text" id="ingredientName" name="ingredient" visible="true" />&nbsp;&nbsp;
+                            <input type="text" name="qty" id="qty" />&nbsp;&nbsp;
+                            <a href="#" name="addButton" id="addButton" onclick="add()">Add</a>
+                        </div>
+                    </div>
+
+
+
+                    <div class="row" style="margin-top:20px;">
+                        <div class="col-1"></div>
+                        <div class="col-2">
+                            <label class="format">Directions: </label>
+                        </div>
+                        <div class="col-9">
+                            <textarea cols="80" rows="10" asp-for="Direction" required></textarea>
+                        </div>
+                    </div>
+                    <div class="row" style="margin-top:20px;margin-bottom:40px;">
+                        <div class="col">
+                            <center><button asp-action="UpdateRecipe" asp-controller="CRUD" type="submit" class="button" asp-route-id="@Model.RecipeID" asp-route-name="@User.Identity.Name">Update Recipe</button></center>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,37 @@
+﻿@model Review
+@{
+    ViewData["Title"] = "Review Recipe";
+    Layout = "~/Views/Shared/_basicLayout.cshtml";
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+</head>
+<body>
+    <div class="container">
+        <h2>Reviews</h2>
+        <form asp-action="ReviewRecipe" method="post">
+            <div class="row">
+                <div class="col">
+                    <label class="format"> </label>&nbsp;&nbsp;
+                    <img src="" alt="" width="300" />
+                </div>
+
+            </div>
+            <div class="display:none;"></div>
+            <div class="row" style="margin-top:20px;">
+                <label class="format">Comment: </label>&nbsp;&nbsp;
+                <textarea rows="10" cols="100" size="100%" value="Add a comment..." asp-for="Reviews"></textarea>
+            </div>
+            <div class="row">
+                <button asp-controller="Home" type="submit" class="button" asp-route-id="@Model.RecipeId" asp-route-user="@User.Identity.Name" style="margin-top:20px;">
+                    Add Comment
+                </button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+
+

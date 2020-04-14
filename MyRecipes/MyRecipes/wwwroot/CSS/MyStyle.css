@@ -1,0 +1,103 @@
+﻿.slider-holder {
+    width: 750px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    text-align: center;
+    overflow: hidden;
+    
+}
+
+.image-holder {
+    width: 2250px;
+    height: 300px;
+    clear: both;
+    position: relative;
+    animation: 20s slider infinite;
+}
+.image-container {
+    margin: 25px;
+    float:left;
+    position:relative;
+}
+.slider-image {
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
+.format{
+    color:maroon;
+    font-weight:bold;
+}
+.button {
+    min-height: 40px;
+    width: auto;
+    text-align: center;
+    background-color: indianred;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px;
+    border: 2px lightgrey outset;
+    float: left;
+    height: 40px;
+}
+.button:hover{
+    background-color:burlywood;
+    color:maroon;
+    text-decoration:none;
+
+}
+.img-circle{
+    border-radius:50%;
+}
+
+@keyframes slider{
+    0%{
+        left:0;
+    }
+    20%{
+        left:0;
+    }
+    25%{
+        left:-100%;
+    }
+    45%{
+        left:-100%;
+    }
+    50%{
+        left:-100%;
+    }
+    70%{
+        left:-200%;
+    }
+    75%{
+        left:-200%;
+    }
+    95%{
+        left:-200%;
+    }
+    100%{
+        left:-300%;
+    }
+
+}
+.top {
+    margin-top: 20px;
+}
+.link{
+    text-decoration:none;
+    color:black;
+}
+
+#container {
+    min-height: 700px;
+    margin: 0px;
+    padding: 0px;
+}
+.spacing{
+    margin:0px;
+    padding:0px;
+}

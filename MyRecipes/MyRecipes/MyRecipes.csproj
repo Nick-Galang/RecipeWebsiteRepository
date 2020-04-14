@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="C:\Users\sirin\Documents\Semester3\COMP229\Images\header2.jpg" Link="header2.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="4.3.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Content\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\css\bootstrap-grid.css" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\css\bootstrap-grid.min.css" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\css\bootstrap-reboot.css" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\css\bootstrap-reboot.min.css" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\css\bootstrap.css" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\css\bootstrap.css.map" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\css\bootstrap.min.css" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\js\bootstrap.js" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\js\bootstrap.js.map" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\js\bootstrap.min.js" />
+    <None Include="wwwroot\Content\bootstrap-4.3.1-dist\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\Images\dish.png" />
+    <None Include="wwwroot\Images\recipe_header.jpg" />
+  </ItemGroup>
+
+
+
+</Project>

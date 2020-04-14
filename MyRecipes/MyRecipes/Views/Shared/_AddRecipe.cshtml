@@ -1,0 +1,117 @@
+﻿@model MyRecipes.Models.Recipe
+
+
+@{
+    ViewData["Title"] = "AddRecipe";
+}
+    
+        <div style="padding:10px;">
+            <h2 class=" text-md-center text-primary  bg-dark  shadow-lg p-lg-3 "> <strong>ADD NEW RECIPE</strong></h2>
+            <div class="form-group">
+                <div style="background-color:lightgray;border-radius:5px;box-shadow:5px;border:2px outset grey;width:auto;height:870px;margin:10px;">
+                    <form asp-action="AddRecipe" method="post">
+                        <div asp-validation-summary="All"></div>
+                        <div class="container-fluid text-primary">
+
+                            <div class="row" style="margin-top:20px;">
+                                <div class="col-auto"></div>
+                                <div class="col-auto">
+                                    <h5>
+                                        <label class="format">Name of Recipe: </label>&nbsp;
+                                        <br />
+                                        <label class="format top">Category: </label>&nbsp;
+                                        <br />
+                                        <label class="format top">Prep Time: </label>
+                                        <br />
+                                        <span>
+                                            <label class="format top">Cook Time: </label>
+
+                                        </span><br />
+                                    </h5>
+                                </div>
+
+                                <div class="col-auto">
+                                    <input type="text" size="50" asp-for="RecipeTitle" required /><br />
+                                    <select width="100" asp-for="Category" class="top" required>
+                                        <option>Salads</option>
+                                        <option>Soup</option>
+                                        <option>Beverages</option>
+                                        <option>Main Dishes</option>
+                                        <option>Snacks</option>
+                                        <option>Appetizers</option>
+                                        <option>Veggies</option>
+                                        <option>Non Vegetarian </option>
+                                    </select><br />
+                                    <input type="text" asp-for="PrepareTime" class="top" required /><br />
+                                    <input type="text" asp-for="CookTime" class="top" required />
+                                </div>
+                                <div class="col-auto">
+                                    <img src="~/Images/ad.gif" width="300" class="img-thumbnail" />
+                                    <input type="hidden" value="samosa.jpg" alt="recipe" />
+                                </div>
+                            </div>
+
+
+                            <div class="row" style="margin-top:20px;">
+                                <div class="col-auto"></div>
+                                <div class="col-auto">
+                                    <h5><label class="format">Description: </label></h5>&nbsp;
+                                </div>
+                                <div style="margin-left:48px;">
+                                    <textarea cols="80" rows="4" class="col-auto" asp-for="Description" title="Enter Recipe Description here..." required></textarea>
+                                </div>
+
+                            </div>
+                            <div class="row">
+                                <div class="col-auto"></div>
+                                <div class="col-auto ">
+                                    <h5><label class="format">Ingredients: </label></h5>&nbsp;
+                                </div>
+                                <div class="col-auto"><p id="ingredientList"></p></div>
+
+                            </div>
+                            <div class="row">
+                                <div class="col-auto"></div>
+                                <div class="col-auto">
+                                    <label class="format"></label>&nbsp;
+                                </div>
+                                <div style="margin-left:130px;margin-bottom:20px">
+                                    <label id="ingredientList"></label>
+                                    <span class="col-md-3">
+                                        <input type="text" id="ingredientName" name="ingredient" visible="true" />
+                                    </span>
+
+                                    <input type="text" name="qty" id="qty" />
+                                    <a href="#" name="addButton" id="addButton" onclick="add()">Add</a>
+
+                                </div>
+                            </div>
+
+
+                           
+                                <div class="row top">
+                                    <div class="col-auto"></div>
+                                    <div class="col-auto">
+                                        <h5><label class="format">Directions: </label></h5>
+                                    </div>
+                                    <div style="margin-left:58px;">
+                                        <textarea cols="80" rows="10" asp-for="Direction" required></textarea>
+                                    </div>
+                                </div>
+                                <div class="row" style="margin-top:20px;margin-bottom:30px;">
+                                    <div class="col-6">
+
+                                        <button class="btn btn-outline-success" asp-controller="CRUD" type="submit" style="float:right;">Add New Recipe</button>
+                                    </div>
+                                    <div class="col-6">
+                                        <a class="btn btn-outline-danger" asp-action="Index" asp-controller="Home" alt="Cancel">Cancel</a>
+                                    </div>
+                                </div>
+
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+  

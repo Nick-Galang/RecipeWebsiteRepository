@@ -1,0 +1,314 @@
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.deps.json
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.json
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.dev.json
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.dll
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.pdb
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csprojAssemblyReference.cache
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csproj.CoreCompileInputs.cache
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cache
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cs
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfoInputs.cache
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfo.cs
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cache
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.dll
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.pdb
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.dll
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.input.cache
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.output.cache
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorCoreGenerate.cache
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cs
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csproj.CopyComplete
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.g.cshtml.cs
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.g.cshtml.cs
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+F:\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Thanks.g.cshtml.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.deps.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.dev.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.dll
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csprojAssemblyReference.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfoInputs.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfo.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.input.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.output.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorCoreGenerate.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csproj.CopyComplete
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditRecipe.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\UserReviews.cshtml.g.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\libman.json
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.deps.json
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.json
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.dev.json
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.dll
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.pdb
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.dll
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csprojAssemblyReference.cache
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cache
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfoInputs.cache
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfo.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.input.cache
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.output.cache
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorCoreGenerate.cache
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.cshtml.g.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditRecipe.cshtml.g.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.cshtml.g.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Thanks.cshtml.g.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\UserReviews.cshtml.g.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.cshtml.g.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cache
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cs
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.dll
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.pdb
+D:\Semester3\COMP229-301032466-Assign01\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csproj.CopyComplete
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.deps.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.dev.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.dll
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csprojAssemblyReference.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfoInputs.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfo.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.input.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.output.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorCoreGenerate.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csproj.CopyComplete
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign02\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AddRecipe.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.deps.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.dev.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.dll
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csprojAssemblyReference.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfoInputs.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfo.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.input.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.output.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorCoreGenerate.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AddRecipe.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cache
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csproj.CopyComplete
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\CRUD\UpdateRecipe.cshtml.g.cs
+C:\Users\sirin\Documents\Semester3\COMP229\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\CRUD\AddRecipe.cshtml.g.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.deps.json
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.json
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.dev.json
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.dll
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csprojAssemblyReference.cache
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cache
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfoInputs.cache
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfo.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.input.cache
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.output.cache
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorCoreGenerate.cache
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\CRUD\AddRecipe.cshtml.g.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\CRUD\UpdateRecipe.cshtml.g.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.cshtml.g.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.cshtml.g.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AddRecipe.cshtml.g.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cache
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cs
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\sirin\Downloads\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csproj.CopyComplete
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.deps.json
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.json
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.dev.json
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.dll
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csprojAssemblyReference.cache
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cache
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfoInputs.cache
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfo.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.input.cache
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.output.cache
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorCoreGenerate.cache
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\CRUD\AddRecipe.cshtml.g.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\CRUD\UpdateRecipe.cshtml.g.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.cshtml.g.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.cshtml.g.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AddRecipe.cshtml.g.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cache
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csproj.CopyComplete
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ErrorPage.cshtml.g.cs
+C:\Users\sirin\Desktop\COMP229-301032466-Assign03-v1\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\UserFavorite.cshtml.g.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.deps.json
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.json
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.dev.json
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.dll
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csprojAssemblyReference.cache
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csproj.CoreCompileInputs.cache
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cache
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfoInputs.cache
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfo.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.input.cache
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.output.cache
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorCoreGenerate.cache
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\CRUD\AddRecipe.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\CRUD\UpdateRecipe.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ErrorPage.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\UserFavorite.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AddRecipe.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cache
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cs
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\16478\Desktop\MyRecipes (5)\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csproj.CopyComplete
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.deps.json
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.json
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.runtimeconfig.dev.json
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.dll
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\bin\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csprojAssemblyReference.cache
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csproj.CoreCompileInputs.cache
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cache
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfoInputs.cache
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfo.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.input.cache
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.TagHelpers.output.cache
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorCoreGenerate.cache
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\CRUD\AddRecipe.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\CRUD\UpdateRecipe.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ErrorPage.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\UserFavorite.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AddRecipe.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cache
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorTargetAssemblyInfo.cs
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.Views.pdb
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.pdb
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csproj.CopyComplete
+C:\Users\16478\Desktop\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_basicLayout.g.cshtml.cs
+C:\Users\nixtw\Backup_NIck\COMP229\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.csprojAssemblyReference.cache
+C:\Users\nixtw\Backup_NIck\COMP229\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cache
+C:\Users\nixtw\Backup_NIck\COMP229\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.RazorAssemblyInfo.cs
+C:\Users\nixtw\Backup_NIck\COMP229\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfoInputs.cache
+C:\Users\nixtw\Backup_NIck\COMP229\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.AssemblyInfo.cs
+C:\Users\nixtw\Backup_NIck\COMP229\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.dll
+C:\Users\nixtw\Backup_NIck\COMP229\MyRecipes\MyRecipes\MyRecipes\obj\Debug\netcoreapp2.1\MyRecipes.pdb
